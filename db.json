@@ -4,23 +4,23 @@
       "id": 1,
       "userId": 101,
       "username": "admin",
-      "password": "password123",
+      "password": "123456",
       "status": "active",
       "lastLogin": "2026-07-10T10:30:00.000Z"
     },
     {
       "id": 2,
       "userId": 102,
-      "username": "tester01",
-      "password": "123456password",
+      "username": "user1",
+      "password": "123456",
       "status": "active",
       "lastLogin": null
     },
     {
       "id": 3,
       "userId": 103,
-      "username": "banned_user",
-      "password": "wrongpassword",
+      "username": "user2",
+      "password": "123456",
       "status": "inactive",
       "lastLogin": "2026-06-01T08:00:00.000Z"
     }
