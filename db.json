@@ -50,5 +50,37 @@
       "stock": 30,
       "imageUrl": "https://picsum.photos/200?random=3"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "email": "an.nguyen@gmail.com",
+      "avatar": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bình",
+      "email": "binh.tran@yahoo.com",
+      "avatar": null
+    },
+    {
+      "id": 3,
+      "name": "Lê Hoàng Phúc",
+      "email": "phuc.le@outlook.com",
+      "avatar": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 4,
+      "name": "Phạm Mai Phương",
+      "email": "phuong.pham@gmail.com",
+      "avatar": null
+    },
+    {
+      "id": 5,
+      "name": "Hoàng Xuân Vinh",
+      "email": "vinh.hoang@edu.vn",
+      "avatar": "https://i.pravatar.cc/150?img=15"
+    }
   ]
 }
