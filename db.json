@@ -24,5 +24,31 @@
       "status": "inactive",
       "lastLogin": "2026-06-01T08:00:00.000Z"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Air M2 2023",
+      "price": 24500000,
+      "category": "Laptop",
+      "stock": 15,
+      "imageUrl": "https://picsum.photos/200?random=1"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15 Pro Max 256GB",
+      "price": 29900000,
+      "category": "Điện thoại",
+      "stock": 8,
+      "imageUrl": "https://picsum.photos/200?random=2"
+    },
+    {
+      "id": 3,
+      "name": "Tai nghe AirPods Pro 2",
+      "price": 5800000,
+      "category": "Phụ kiện",
+      "stock": 30,
+      "imageUrl": "https://picsum.photos/200?random=3"
+    }
   ]
 }
